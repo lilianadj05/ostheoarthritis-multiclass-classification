@@ -1,4 +1,4 @@
-# 🦵 Knee Osteoarthritis Classification
+# 🦵 Osteoarthritis Multiclass Classification
 
 ## 📌 Project Overview
 This project aims to classify the severity of knee osteoarthritis from X-ray images. It compares the performance of two different Convolutional Neural Network (CNN) architectures, AlexNet and EfficientNetB0, to determine which model is more effective for this task.
